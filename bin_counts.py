@@ -12,7 +12,7 @@ logging.basicConfig(format=log_format, level=logging.INFO, datefmt="%H:%M:%S")
 EXCHANGE = "Binance"
 
 # Set websocket
-SOCKET = "wss://stream.binance.com:9443/ws/btcusd@bookTicker"
+SOCKET = "wss://stream.binance.com:9443/ws"
 
 # Set seconds to run test
 RUNTIME = 15
