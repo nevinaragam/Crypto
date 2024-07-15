@@ -1,4 +1,4 @@
-# Instalation
+# Installation
 # Docker
 
 (Cite Medium article here)
